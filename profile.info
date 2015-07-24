@@ -1,13 +1,13 @@
 spaf_version:1.0
-release_level:0
-release_version:1.0
-project_name:ILDAview
-project_authors:220
+level:0
+release:1.0
+name:ILDAview
+authors:220
 category:tech
 tags:laser,ILDA,viewer
-project_brief:a simple ILDA files viewer
-project_description:ILDA is a format used by the laser industry. This tool lets you preview files easily.
-project_release_date:20-jul-2015
-project_requirements:python,pygame
-project_platform:multi
-project_devtools:linux box,python 2.7,pygame
+brief:a simple ILDA files viewer
+description:ILDA is a format used by the laser industry. This tool lets you preview files easily.
+release_date:20-jul-2015
+requirements:python,pygame
+platform:multi
+devtools:linux box,python 2.7,pygame
